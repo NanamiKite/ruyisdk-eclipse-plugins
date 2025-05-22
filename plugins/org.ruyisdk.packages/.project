@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>org.ruyisdk.core</name>
+	<name>org.ruyisdk.packages</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -27,7 +27,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1747737284465</id>
+			<id>1747041455746</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
